@@ -6,7 +6,8 @@ function App() {
     <div className='App'>
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
-        Hello world react application ne I have created Nav bar...
+        Hello world react application ne I have created Nav bar... changes for
+        navbar
       </header>
     </div>
   );
